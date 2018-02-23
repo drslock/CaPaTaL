@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern>
+    <names>
+        <name>Voice recognition feedback</name>
+        <name>"Autopsy" feedback</name>
+    </names>
+    
+    <classifications>
+        
+        <motivations>
+            <option>Quicker</option>
+            <option>Extensive</option>
+        </motivations>
+
+        <participants>
+            <option>Lone Worker</option>
+            <option>Pair</option>
+            <option>Small group</option>
+            <option>Medium class</option>
+            <option>Large class</option>
+            <option>Involving Tutor</option>
+        </participants>
+
+        <contexts>
+            <option>Private study space</option>
+        </contexts>
+
+        <input-media>
+            <option>Any</option>
+        </input-media>
+
+        <output-media>
+            <option>Written material</option>
+        </output-media>
+
+        <phases>
+            <option>FB Formulation</option>
+            <option>FB Documentation</option>
+        </phases>
+
+    </classifications>
+    
+    <details>
+        <description>
+	    Rather than hand-writing or typing up feedback, voice recognition software is used to
+	    capture the thoughts of the marker, as they review the work. This not only speeds up feedback
+	    text creation, but also allows the marker to work "hands-free" when reviewing submissions.
+	</description>
+        <applicability>
+	    Work needs to be reviewed in a quiet space to ensure accuracy of voice recognition.
+	    Even then, the final written material should be reviewed for accuracy.
+	</applicability>
+        <consequences>
+	    No known consequences
+	</consequences>
+    </details>
+    
+    <references>
+        <similar-patterns>
+            <similar>Automatically populated list based on classification matching</similar>
+        </similar-patterns>
+        <related-patterns>
+            <related>Manually created links to other patterns</related>
+        </related-patterns>
+        <resources>
+            <resource>HREF links to resources, examples, case studies, software etc.</resource>
+        </resources>
+    </references>
+
+</pattern>

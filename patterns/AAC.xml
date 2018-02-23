@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern>
+    <names>
+        <name>Crit</name>
+    </names>
+    
+    <classifications>
+        
+        <motivations>
+            <option>Extensive</option>
+            <option>Relevant</option>
+        </motivations>
+
+        <participants>
+            <option>Small group</option>
+            <option>Involving Tutor</option>
+        </participants>
+
+        <contexts>
+            <option>Seminar/Tutorial Room</option>
+            <option>Lab Space</option>
+            <option>Office</option>
+        </contexts>
+
+        <input-media>
+            <option>Any</option>
+        </input-media>
+
+        <output-media>
+            <option>Written material</option>
+            <option>Knowledge/Understanding</option>
+        </output-media>
+
+        <phases>
+            <option>CW Interrogation</option>
+            <option>FB Formulation</option>
+            <option>FB Communication</option>
+            <option>FB Appreciation</option>
+        </phases>
+
+    </classifications>
+    
+    <details>
+        <description>
+            Face-to-face group discussion of the produced work, involving both
+            tutor and other students in the deconstruction and analysis.
+            Should ideally focus on both postive and negative (room for improvement)
+            aspects of the work.
+        </description>
+        <applicability>
+	    Works well with a close-knit group of trusting students.
+	    Seems fairest in group of students with similar level of ability.
+	</applicability>
+        <consequences>
+	    Can result in the demotivation of poor performing students.
+	    Can lead to conflict between students if not managed carefully.
+	</consequences>
+    </details>
+    
+    <references>
+        <similar-patterns>
+            <similar>Automatically populated list based on classification matching</similar>
+        </similar-patterns>
+        <related-patterns>
+            <related>Manually created links to other patterns</related>
+        </related-patterns>
+        <resources>
+            <resource>HREF links to resources, examples, case studies, software etc.</resource>
+        </resources>
+    </references>
+
+</pattern>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern>
+    <names>
+        <name>Whole class feedback</name>
+        <name>Generic feedback</name>
+    </names>
+    
+    <classifications>
+        
+        <motivations>
+            <option>Simpler</option>
+            <option>Quicker</option>
+            <option>Extensive</option>
+        </motivations>
+
+        <participants>
+            <option>Medium class</option>
+            <option>Large class</option>
+            <option>Involving Tutor</option>
+        </participants>
+
+        <contexts>
+            <option>Lecture Theatre</option>
+            <option>Seminar/Tutorial Room</option>
+        </contexts>
+
+        <input-media>
+            <option>Written material</option>
+            <option>Numerical data</option>
+            <option>Graphical material</option>
+        </input-media>
+
+        <output-media>
+            <option>Knowledge/Understanding</option>
+        </output-media>
+
+        <phases>
+            <option>FB Communication</option>
+            <option>FB Appreciation</option>
+        </phases>
+
+    </classifications>
+    
+    <details>
+        <description>
+            Rather than giving each person/group individual feedback, the tutor
+            creates a universally applicable set of feedback that is then presented
+            to the whole class/cohort. All elements of the feedback need not be 
+            applicable to all groups/individuals, but there should be at least some
+            relevant material in the whole feedback set.
+            Often used in conjunction with some more individual feedback elements.
+        </description>
+        <applicability>
+	    Best used with convergent assignments (where all solutions tend towards the same answer).
+	    Can be most effective when students frequently make the same mistakes.
+	</applicability>
+        <consequences>
+	    Relevency and specificity of the feedback is reduced.
+	    Students can sometimes feel that the value of feedback is reduced.
+	   </consequences>
+    </details>
+    
+    <references>
+        <similar-patterns>
+            <similar>Automatically populated list based on classification matching</similar>
+        </similar-patterns>
+        <related-patterns>
+            <related>Manually created links to other patterns</related>
+        </related-patterns>
+        <resources>
+            <resource>HREF links to resources, examples, case studies, software etc.</resource>
+        </resources>
+    </references>
+
+</pattern>

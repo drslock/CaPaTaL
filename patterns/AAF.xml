@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern>
+    <names>
+        <name>Fantasy submission</name>
+        <name>Best practice recap</name>
+    </names>
+    
+    <classifications>
+        
+        <motivations>
+            <option>Simpler</option>
+            <option>Quicker</option>
+            <option>Understandable</option>
+        </motivations>
+
+        <participants>
+            <option>Medium class</option>
+            <option>Large class</option>
+            <option>Involving Tutor</option>
+        </participants>
+
+        <contexts>
+            <option>Lecture Theatre</option>
+            <option>Seminar/Tutorial Room</option>
+            <option>Lab Space</option>
+        </contexts>
+
+        <input-media>
+            <option>Any</option>
+        </input-media>
+
+        <output-media>
+            <option>Any</option>
+        </output-media>
+
+        <phases>
+            <option>FB Formulation</option>
+            <option>FB Documentation</option>
+            <option>FB Communication</option>
+            <option>FB Appreciation</option>
+        </phases>
+
+    </classifications>
+    
+    <details>
+        <description>
+	    A sample solution is created by "cherry picking" the best elements from a range of student submissions.
+	    The composite solution provides a clear and concrete indication of best practice.
+	    It should however be pointed out that this may not be a "perfect" solution, just the "best in class"
+	</description>
+        <applicability>
+	    Works well with a convergent exercise, where the samples selected are relevant to all students.
+	</applicability>
+        <consequences>
+	    Lack of coherence in the composite sample solution can sometimes confuse less able students.
+	    Can lead to competition between students (who will be selected for inclusion in the sample solution)
+	</consequences>
+    </details>
+    
+    <references>
+        <similar-patterns>
+            <similar>Automatically populated list based on classification matching</similar>
+        </similar-patterns>
+        <related-patterns>
+            <related>Manually created links to other patterns</related>
+        </related-patterns>
+        <resources>
+            <resource>HREF links to resources, examples, case studies, software etc.</resource>
+        </resources>
+    </references>
+
+</pattern>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern>
+    <names>
+        <name>Audio/Video feedback</name>
+        <name>Podcast feedback</name>
+    </names>
+    
+    <classifications>
+        
+        <motivations>
+            <option>Quicker</option>
+            <option>Extensive</option>
+        </motivations>
+
+        <participants>
+            <option>Lone Worker</option>
+            <option>Pair</option>
+            <option>Small group</option>
+            <option>Medium class</option>
+            <option>Large class</option>
+            <option>Involving Tutor</option>
+        </participants>
+
+        <contexts>
+            <option>Online</option>
+        </contexts>
+
+        <input-media>
+            <option>Any</option>
+        </input-media>
+
+        <output-media>
+            <option>Audio</option>
+            <option>Video</option>
+        </output-media>
+
+        <phases>
+            <option>FB Formulation</option>
+            <option>FB Documentation</option>
+            <option>FB Communication</option>
+            <option>FB Appreciation</option>
+        </phases>
+
+    </classifications>
+    
+    <details>
+        <description>
+            Rather than providing feedback as a written document, comments are
+            provided to the student in the form of an audio or video commentary.
+            Video has the advantage of allowing the tutor to indicate (point to)
+            the area of work being discussed, as well as being able to illustrate
+            the feedback with drawn graphics.
+        </description>
+        <applicability>
+	    Useful for complex feedback, that makes the overhead of setting up the
+	    recording and distribution of feedback worthwhile.
+	</applicability>
+        <consequences>
+	    May cause additional work in setting up recording and distributing media.
+	</consequences>
+    </details>
+    
+    <references>
+        <similar-patterns>
+            <similar>Automatically populated list based on classification matching</similar>
+        </similar-patterns>
+        <related-patterns>
+            <related>Manually created links to other patterns</related>
+        </related-patterns>
+        <resources>
+            <resource>HREF links to resources, examples, case studies, software etc.</resource>
+        </resources>
+    </references>
+
+</pattern>

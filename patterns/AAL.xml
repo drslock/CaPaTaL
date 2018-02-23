@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern>
+    <names>
+        <name>Peer review</name>
+        <name>Peer marking</name>
+    </names>
+    
+    <classifications>
+        
+        <motivations>
+            <option>Quicker</option>
+            <option>Extensive</option>
+            <option>Understandable</option>
+        </motivations>
+
+        <participants>
+            <option>Lone Worker</option>
+            <option>Pair</option>
+            <option>Small group</option>
+            <option>Medium class</option>
+            <option>Large class</option>
+            <option>Involving Tutor</option>
+        </participants>
+
+        <contexts>
+            <option>Lecture Theatre</option>
+            <option>Seminar/Tutorial Room</option>
+            <option>Library</option>
+            <option>Private study space</option>
+            <option>Lab Space</option>
+            <option>Outside</option>
+            <option>Office</option>
+            <option>Foyer</option>
+        </contexts>
+
+        <input-media>
+            <option>Written material</option>
+            <option>Code</option>
+            <option>Numerical data</option>
+            <option>Graphical material</option>
+            <option>Audio</option>
+            <option>Video</option>
+            <option>Physical object</option>
+            <option>Knowledge/Understanding</option>
+        </input-media>
+
+        <output-media>
+            <option>Written material</option>
+            <option>Code</option>
+            <option>Numerical data</option>
+            <option>Graphical material</option>
+            <option>Audio</option>
+            <option>Video</option>
+            <option>Physical object</option>
+            <option>Knowledge/Understanding</option>
+        </output-media>
+
+        <phases>
+            <option>CW Completion</option>
+            <option>CW Submission</option>
+            <option>CW Interrogation</option>
+            <option>FB Formulation</option>
+            <option>FB Documentation</option>
+            <option>FB Communication</option>
+            <option>FB Appreciation</option>
+        </phases>
+
+    </classifications>
+    
+    <details>
+        <description>
+	    Rather than just relying of the feedback from tutors, students review and provide feedback on
+	    each other's work. This not only increases the range and volume of feedback each student gains,
+	    but gives all student visibility of the range of possible outcomes/solutions produced by others.
+	</description>
+        <applicability>
+	    Can work in a wide variety of contexts for a range of different assignments.
+	</applicability>
+        <consequences>
+	    Due to the cross-visibility of work, this can result in competition and even arguments between students.
+	    Quality, accuracy and impartiality of the recieved feedback may be variable.
+	</consequences>
+    </details>
+    
+    <references>
+        <similar-patterns>
+            <similar>Automatically populated list based on classification matching</similar>
+        </similar-patterns>
+        <related-patterns>
+            <related>Manually created links to other patterns</related>
+        </related-patterns>
+        <resources>
+            <resource>HREF links to resources, examples, case studies, software etc.</resource>
+        </resources>
+    </references>
+
+</pattern>

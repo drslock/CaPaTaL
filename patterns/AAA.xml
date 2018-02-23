@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern>
+    <names>
+        <name>Student as feedback scribe</name>
+    </names>
+    
+    <classifications>
+        
+        <motivations>
+            <option>Quicker</option>
+            <option>Extensive</option>
+            <option>Understandable</option>
+        </motivations>
+        
+        <participants>
+            <option>Pair</option>
+            <option>Small group</option>
+            <option>Involving Tutor</option>
+        </participants>
+
+        <contexts>
+            <option>Seminar/Tutorial Room</option>
+            <option>Lab Space</option>
+            <option>Office</option>
+        </contexts>
+
+        <input-media>
+            <option>Any</option>
+        </input-media>
+
+        <output-media>
+            <option>Written material</option>
+            <option>Knowledge/Understanding</option>
+        </output-media>
+
+        <phases>
+            <option>FB Documentation</option>
+            <option>FB Communication</option>
+            <option>FB Appreciation</option>
+        </phases>
+
+    </classifications>
+    
+    <details>
+        <description>
+            A face-to-face feedback session is run with the group/individual,
+            where the work is discussed. A selected student (the scribe) keeps
+            notes of the feedback and discussion. The scribe then writes up these
+            notes into a formal document, which the tutor signs off at a later date.
+        </description>
+        <applicability>
+	    Particularly helpful for complex assignments with no one answer and debatable results
+	    (requiring much discussion during feedback)
+	</applicability>
+        <consequences>
+	    Can result in extra workload for students (in particulary the scribe).
+	    Opens up the potential of argument with the student group.
+	</consequences>
+    </details>
+    
+    <references>
+        <similar-patterns>
+            <similar>Automatically populated list based on classification matching</similar>
+        </similar-patterns>
+        <related-patterns>
+            <related>Manually created links to other patterns</related>
+        </related-patterns>
+        <resources>
+            <resource>HREF links to resources, examples, case studies, software etc.</resource>
+        </resources>
+    </references>
+
+</pattern>

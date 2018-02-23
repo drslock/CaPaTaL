@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern>
+    <names>
+        <name>Viva</name>
+        <name>Live Marking</name>
+    </names>
+    
+    <classifications>
+        
+        <motivations>
+            <option>Simpler</option>
+            <option>Quicker</option>
+            <option>Extensive</option>
+        </motivations>
+
+        <participants>
+            <option>Lone Worker</option>
+            <option>Pair</option>
+            <option>Small group</option>
+            <option>Involving Tutor</option>
+        </participants>
+
+        <contexts>
+            <option>Seminar/Tutorial Room</option>
+            <option>Office</option>
+        </contexts>
+
+        <input-media>
+            <option>Any</option>
+        </input-media>
+
+        <output-media>
+            <option>Written material</option>
+            <option>Numerical data</option>
+            <option>Knowledge/Understanding</option>
+        </output-media>
+
+        <phases>
+            <option>CW Submission</option>
+            <option>CW Interrogation</option>
+            <option>FB Formulation</option>
+        </phases>
+
+    </classifications>
+    
+    <details>
+        <description>
+            Oral examination of the work involving one or more tutors (assessors)
+            and the individual/group being assessed. May involve the exploration
+            of theoretic knowledge of the students, or may be centered around a
+            document or artifact that they have produced.
+        </description>
+        <applicability>
+	    Useful for discussion of open ended work, with many right answers and debatable results
+	</applicability>
+        <consequences>
+	    Can disadvantage less confident students and non first-language students.
+	</consequences>
+    </details>
+    
+    <references>
+        <similar-patterns>
+            <similar>Automatically populated list based on classification matching</similar>
+        </similar-patterns>
+        <related-patterns>
+            <related>Manually created links to other patterns</related>
+        </related-patterns>
+        <resources>
+            <resource>HREF links to resources, examples, case studies, software etc.</resource>
+        </resources>
+    </references>
+
+</pattern>

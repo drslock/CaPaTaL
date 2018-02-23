@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern>
+    <names>
+        <name>Skim read</name>
+        <name>5 min flick</name>
+        <name>Sample Marking</name>
+    </names>
+    
+    <classifications>
+        
+        <motivations>
+            <option>Simpler</option>
+            <option>Quicker</option>
+        </motivations>
+
+        <participants>
+            <option>Involving Tutor</option>
+        </participants>
+
+        <contexts>
+            <option>Private study space</option>
+            <option>Office</option>
+        </contexts>
+
+        <input-media>
+            <option>Any</option>
+        </input-media>
+
+        <output-media>
+            <option>Knowledge/Understanding</option>
+        </output-media>
+
+        <phases>
+            <option>CW Interrogation</option>
+            <option>FB Formulation</option>
+        </phases>
+
+    </classifications>
+    
+    <details>
+        <description>
+	    A sample of student work is quickly reviewed to gain a high-level appreciation of quality,
+	    common mistakes and ommissions. This pattern is a pre-cursor to other marking and
+	    feedback activities. It does however provide a quick way to gauge the general level of
+	    attainment in the body of work.
+	</description>
+        <applicability>
+	    Useful in providing very fast turn-around feedback - as part of iterative refinement
+	    and multiple submissions. Or as a precursor to other feedback activities.
+	</applicability>
+        <consequences>
+	    By its very nature, this approach does not provide any detailed feedback.
+	    Direct relevance to specific student's work is therefore limited
+	</consequences>
+    </details>
+    
+    <references>
+        <similar-patterns>
+            <similar>Automatically populated list based on classification matching</similar>
+        </similar-patterns>
+        <related-patterns>
+            <related>Manually created links to other patterns</related>
+        </related-patterns>
+        <resources>
+            <resource>HREF links to resources, examples, case studies, software etc.</resource>
+        </resources>
+    </references>
+
+</pattern>

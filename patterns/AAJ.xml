@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern>
+    <names>
+        <name>Poster Session</name>
+    </names>
+    
+    <classifications>
+        
+        <motivations>
+            <option>Quicker</option>
+            <option>Understandable</option>
+            <option>Relevant</option>
+        </motivations>
+
+        <participants>
+            <option>Lone Worker</option>
+            <option>Pair</option>
+            <option>Small group</option>
+            <option>Medium class</option>
+            <option>Large class</option>
+            <option>Involving Tutor</option>
+        </participants>
+
+        <contexts>
+            <option>Lecture Theatre</option>
+            <option>Seminar/Tutorial Room</option>
+            <option>Library</option>
+            <option>Private study space</option>
+            <option>Lab Space</option>
+            <option>Outside</option>
+            <option>Office</option>
+            <option>Foyer</option>
+        </contexts>
+
+        <input-media>
+            <option>Written material</option>
+            <option>Code</option>
+            <option>Numerical data</option>
+            <option>Graphical material</option>
+            <option>Audio</option>
+            <option>Video</option>
+            <option>Physical object</option>
+            <option>Knowledge/Understanding</option>
+        </input-media>
+
+        <output-media>
+            <option>Written material</option>
+            <option>Code</option>
+            <option>Numerical data</option>
+            <option>Graphical material</option>
+            <option>Audio</option>
+            <option>Video</option>
+            <option>Physical object</option>
+            <option>Knowledge/Understanding</option>
+        </output-media>
+
+        <phases>
+            <option>CW Completion</option>
+            <option>CW Submission</option>
+            <option>CW Interrogation</option>
+            <option>FB Formulation</option>
+            <option>FB Documentation</option>
+            <option>FB Communication</option>
+            <option>FB Appreciation</option>
+        </phases>
+
+    </classifications>
+    
+    <details>
+        <description>
+	    Discussion, feedback and even assessment takes place centred around a physical paper poster.
+	    Students describe and explain their work with reference to the poster, often with multiple
+	    sequential vistors (both tutors and other students).
+	</description>
+        <applicability>
+	    Useful for divergent projects, where each student's work is different and required explaination and discussion	    
+	</applicability>
+        <consequences>
+	    Disadvantages less confident and outgoing students and non first language speakers.
+	    Can demotivate lower performing students.
+	</consequences>
+    </details>
+    
+    <references>
+        <similar-patterns>
+            <similar>Automatically populated list based on classification matching</similar>
+        </similar-patterns>
+        <related-patterns>
+            <related>Manually created links to other patterns</related>
+        </related-patterns>
+        <resources>
+            <resource>HREF links to resources, examples, case studies, software etc.</resource>
+        </resources>
+    </references>
+
+</pattern>
