@@ -1,4 +1,4 @@
 # Todo list:
 
 * Add Analytics
-* Add "also-liked"
+* Add "also-liked" feature
